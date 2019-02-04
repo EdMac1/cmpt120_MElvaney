@@ -1,4 +1,4 @@
-# cmpt120_McElvaney
+# cmpt120mcelvaney
 Lab work for Introduction to Programming
 
 Introduction to Programming - Lab Activities
